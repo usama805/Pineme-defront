@@ -3,7 +3,6 @@ export default function Timeline() {
     <section className="container py-4">
       <h2 className="mb-3">Hackathon Timeline</h2>
 
-    
 
       <div className="card p-3 mb-3">
         <h5 className="mb-1">Hackathon Launch</h5>
