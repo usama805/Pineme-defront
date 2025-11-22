@@ -1,0 +1,4 @@
+[
+  { "type":"function", "name":"state", "stateMutability":"view", "inputs":[{"name":"proposalId","type":"uint256"}], "outputs":[{"type":"uint8"}] }
+  
+]
