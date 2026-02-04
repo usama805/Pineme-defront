@@ -107,5 +107,5 @@ Bootstrap for simple and fast styling
 3. npm run dev
 
 
-How to Deploy on PinMe (IPFS)
+
 
